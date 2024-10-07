@@ -8,6 +8,6 @@ public class bus {
 
     @GetMapping("/bus")
     public String getData() {
-        return  "Please book your bus ticket from yatra app on 75% discount" ;
+        return  "Please book your bus ticket from yatra app on 45% discount" ;
     }
 }
